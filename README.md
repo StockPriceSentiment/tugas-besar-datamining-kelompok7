@@ -68,3 +68,43 @@ Metode evaluasi yang digunakan:
 
 ## Cara Menjalankan
 
+## ⚙️ Persiapan
+
+### 1. Clone repositori
+
+git clone https://github.com/username/tugas-besar-datamining-kelompok7.git
+cd tugas-besar-datamining-kelompok7
+
+### 2. Buat dan aktifkan virtual environment
+
+python -m venv .venv
+
+Windows:
+.venv\Scripts\activate
+
+Linux/macOS:
+source .venv/bin/activate
+
+### 3. Install semua dependensi
+
+pip install -r requirements.txt
+
+---
+
+## 🧪 Menjalankan Pipeline
+
+Pastikan dua file berikut tersedia:
+
+- data/processed/IHSG_final.csv
+- data/processed/IDSMSA_Final.csv
+
+Lalu jalankan pipeline dengan:
+
+./run.sh
+
+Atau jika kamu menggunakan Windows PowerShell:
+
+.\run.sh
+
+---
+
