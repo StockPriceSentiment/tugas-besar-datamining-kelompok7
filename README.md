@@ -22,7 +22,7 @@ Kasus ini membahas tentang
 
 ## Sumber Dataset
 
-- Sumber: [Nama Platform atau Link Dataset](https://linkdataset.com)
+- Sumber: [IHSG](https://finance.yahoo.com/quote/%5EJKSE/history/) dan [ID-SMSA](https://data.mendeley.com/datasets/tn4vzs8tdw/3)
 - Format: CSV 
 - Jumlah data: xxxx entri
 
