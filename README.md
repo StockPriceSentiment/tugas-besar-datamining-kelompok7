@@ -24,7 +24,7 @@ Kasus ini membahas tentang analisis hubungan antara sentimen publik terhadap sah
 
 - Sumber: [Data Saham (IHSG)](https://finance.yahoo.com/quote/%5EJKSE/history/) dan [Data Sentimen (ID-SMSA)](https://data.mendeley.com/datasets/tn4vzs8tdw/3)
 - Format: CSV 
-- Jumlah data: Data Saham (350 baris data) & Data Sentimen (3.288 baris data)
+- Jumlah data: Data Saham (350 x 6 baris data) & Data Sentimen (3.288 x 8 baris data)
 
 ---
 
