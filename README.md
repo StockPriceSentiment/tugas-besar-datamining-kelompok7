@@ -61,8 +61,8 @@ Metode evaluasi yang digunakan:
 
 | Algoritma         | Akurasi | Precision | Recall | F1-Score |
 |-------------------|---------|-----------|--------|----------|
-| Naive Bayes       |  0.88  |   0.75   | 1.00  | 0.86    |
-| SVM               |    |      |   |     |
+| Naive Bayes       |  0.88  |  0.75  | 1.00  | 0.86    |
+| SVM               |  0.87  |  0.91  | 0.88  | 0.88    |
 
 ---
 
