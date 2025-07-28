@@ -1,5 +1,5 @@
 # Judul Kasus
-> *Stock Price Sentiment*
+> *PREDIKSI STOCK PRICE SENTIMENT MENGGUNAKAN ALGORITMA NAÏVE BAYES DAN SUPPORT VECTOR MACHINE (SVM)*
 
 ---
 
@@ -16,15 +16,15 @@
 
 ## Deskripsi Kasus
 
-Kasus ini membahas tentang 
+Kasus ini membahas tentang analisis hubungan antara sentimen publik terhadap saham yang diperoleh dari media sosial dan pergerakan harga indeks saham gabungan (IHSG) di Indonesia.
 
 ---
 
 ## Sumber Dataset
 
-- Sumber: [IHSG](https://finance.yahoo.com/quote/%5EJKSE/history/) dan [ID-SMSA](https://data.mendeley.com/datasets/tn4vzs8tdw/3)
+- Sumber: [Data Saham (IHSG)](https://finance.yahoo.com/quote/%5EJKSE/history/) dan [Data Sentimen (ID-SMSA)](https://data.mendeley.com/datasets/tn4vzs8tdw/3)
 - Format: CSV 
-- Jumlah data: xxxx entri
+- Jumlah data: Data Saham (350 baris data) & Data Sentimen (3.288 baris data)
 
 ---
 
@@ -61,7 +61,7 @@ Metode evaluasi yang digunakan:
 
 | Algoritma         | Akurasi | Precision | Recall | F1-Score |
 |-------------------|---------|-----------|--------|----------|
-| Naive Bayes       |    |      |   |     |
+| Naive Bayes       |  0.88  |   0.75   | 1.00  | 0.86    |
 | SVM               |    |      |   |     |
 
 ---
